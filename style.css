@@ -1,0 +1,56 @@
+body,html {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+#mot,#mot2{
+
+    margin-top : 150px;
+    font-size: 100px;
+    font-weight:bold;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#BOUTONS {
+    margin-top: 150px;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+
+}
+
+#BOUTONS2 {
+    margin-top: 150px;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+
+}
+#next, #next2 {
+    color: rgb(5, 56, 5);
+    font-size: 30px;
+    font-weight: bold;
+    margin-right: 20px;
+    border: 2px solid black;
+    border-radius: 4px;
+}
+
+#pass, #pass2 {
+    color: rgb(197, 40, 13);
+    font-size: 30px;
+    font-weight: bold;
+    border: 2px solid black;
+    border-radius: 4px ;
+}
+
+#res, #res2{
+    margin-top: 200px;
+    text-align: center;
+    font-weight: 200;
+    font-style: italic;
+}
